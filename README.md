@@ -20,20 +20,20 @@ En esta clase se define un arreglo de micros que va a decidir a donde va cada pr
 Este es el archivo que se debe de correr para probar el despachador. La lista de procesos se define de la siguiente manera:
 * Donde la primera instancia de Proceso es el nombre, luego su tiempo de ejecución (TE) y por último el momento de inicio del proceso (MI). 
 
-		Proceso("B", 300,  0),
-		Proceso("D", 100,  0),
-		Proceso("F", 500,  0),
-		Proceso("H", 700,  0),
-		Proceso("J", 300,  1500),
-		Proceso("L", 3000, 1500),
-		Proceso("N", 50,   1500),
-		Proceso("O", 600,  1500),
-		Proceso("A", 400,  3000),
-		Proceso("C", 50,   3000),
-		Proceso("E", 1000, 3000),
-		Proceso("G", 10,   3000),
-		Proceso("I", 450,  3000),
-		Proceso("K", 100,  4000),
-		Proceso("M", 80,   4000),
-		Proceso("P", 800,  4000),
-		Proceso("Ñ", 500,  8000)]
+		Proceso("B", 300,  0)
+		Proceso("D", 100,  0)
+		Proceso("F", 500,  0)
+		Proceso("H", 700,  0)
+		Proceso("J", 300,  1500)
+		Proceso("L", 3000, 1500)
+		Proceso("N", 50,   1500)
+		Proceso("O", 600,  1500)
+		Proceso("A", 400,  3000)
+		Proceso("C", 50,   3000)
+		Proceso("E", 1000, 3000)
+		Proceso("G", 10,   3000)
+		Proceso("I", 450,  3000)
+		Proceso("K", 100,  4000)
+		Proceso("M", 80,   4000)
+		Proceso("P", 800,  4000)
+		Proceso("Ñ", 500,  8000)
